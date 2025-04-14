@@ -3,48 +3,50 @@
     {
       "order_id": "5678",
       "total_amount": "37.00",
-      "manufacturer": "ARKET",
       "order_date": "2025-04-10",
       "expected_delivery_date": "2025-04-16",
       "order_status": "delivered",
       "payment_method": "credit card",
       "order_items":[
         {
+          "manufacturer": "ARKET",
           "product_category": "T-shirts & Vests",
           "product_name": "ARKET short sleeve t-shirt with pocket in white and blue stripes",
           "quantity": 1,
           "imageUrl": "https://images.asos-media.com/products/arket-short-sleeve-t-shirt-with-pocket-in-white-and-blue-stripes/208187011-2",
-          "currency": "£"
+          "currency": "£",
+          "value": "37.00"
         }
       ]
     },
     {
-      "order_id": "9578",
-      "total_amount": "13,436.64",
-      "manufacturer": "BrewMaster",
-      "order_date": "2024-07-10",
-      "order_status": "completed",
-      "payment_method": "cash",
-      "product_category": "coffee machines",
-      "product_name": "Coffee Machine BrewMaster 2.0",
-      "quantity": 3,
-      "expected_delivery_date": "2024-07-25",
-      "imageUrl": "https://z3n-analyst.zendesk.com/sc/attachments/QB_2mfCVPiSxLlzuU35L5ski/coffee%20machine%202.png",
-      "currency": "£"
-    },
-    {
-      "order_id": "7345",
-      "total_amount": "1,0570.00",
-      "manufacturer": "De'Longhi",
-      "order_date": "2024-06-30",
-      "order_status": "completed",
-      "payment_method": "bank transfer",
-      "product_category": "coffee machines",
-      "product_name": "Polaris Compact, 2x Filtration Systems",
-      "quantity": 2,
-      "expected_delivery_date": "2024-07-12",
-      "imageUrl": "https://z3n-analyst.zendesk.com/sc/attachments/9sR_ca_gqtG8vAreZDVMoc8G/coffee%20machine%201.png",
-      "currency": "$"
+      "order_id": "4321",
+      "total_amount": "100.00",
+      "currency": "£",
+      "order_date": "2025-04-10",
+      "expected_delivery_date": "2025-04-16",
+      "order_status": "delivered",
+      "payment_method": "credit card",
+      "order_items":[
+        {
+          "manufacturer": "Levis",
+          "product_category": "Jackets & Coats",
+          "product_name": "Levi's Big & Tall denim trucker jacket in black",
+          "quantity": 1,
+          "imageUrl": "https://images.asos-media.com/products/levis-big-tall-denim-trucker-jacket-in-black/207117860-1-black",
+          "currency": "£",
+          "value": "100.00"
+        },
+        {
+          "manufacturer": "Jack & Jones",
+          "product_category": "Trousers & Chinos",
+          "product_name": "Jack & Jones Intelligence loose fit washed cargo trouser in black",
+          "quantity": 1,
+          "imageUrl": "https://images.asos-media.com/products/jack-jones-intelligence-loose-fit-washed-cargo-trouser-in-black/203681912-1-black",
+          "currency": "£",
+          "value": "55.00"
+        }
+      ]
     }
   ]
 }
