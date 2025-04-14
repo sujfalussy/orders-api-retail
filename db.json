@@ -5,14 +5,18 @@
       "total_amount": "37.00",
       "manufacturer": "ARKET",
       "order_date": "2025-04-10",
+      "expected_delivery_date": "2025-04-16",
       "order_status": "delivered",
       "payment_method": "credit card",
-      "product_category": "T-shirts & Vests",
-      "product_name": "ARKET short sleeve t-shirt with pocket in white and blue stripes",
-      "quantity": 1,
-      "expected_delivery_date": "2025-04-16",
-      "imageUrl": "https://images.asos-media.com/products/arket-short-sleeve-t-shirt-with-pocket-in-white-and-blue-stripes/208187011-2",
-      "currency": "£"
+      "order_items":[
+        {
+          "product_category": "T-shirts & Vests",
+          "product_name": "ARKET short sleeve t-shirt with pocket in white and blue stripes",
+          "quantity": 1,
+          "imageUrl": "https://images.asos-media.com/products/arket-short-sleeve-t-shirt-with-pocket-in-white-and-blue-stripes/208187011-2",
+          "currency": "£"
+        }
+      ]
     },
     {
       "order_id": "9578",
